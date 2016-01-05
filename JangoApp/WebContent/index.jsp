@@ -7,6 +7,6 @@
 <title>JANGO MAIL</title>
 </head>
 <body>
-<p> Yellow Yava</p>
+<p> testing</p>
 </body>
 </html>
